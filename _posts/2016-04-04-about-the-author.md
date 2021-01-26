@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Prerna Goel"
 categories: facts
 tags: [sample]
 image: pg2.jpg
