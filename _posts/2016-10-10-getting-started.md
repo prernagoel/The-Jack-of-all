@@ -4,7 +4,7 @@ title: "Creative is relative"
 author: "Prerna Goel"
 categories: blogpost
 tags: [documentation,sample]
-image: city-2.jpg
+image: creative_1.jpg
 ---
 
 # Creative is relative
