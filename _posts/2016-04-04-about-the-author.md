@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "About the Author"
+title: "Facts About Me"
 author: "Prerna Goel"
 categories: facts
 tags: [sample]
 image: pg3.jpg
 ---
 
-Hi there! I'm Prerna. I’m a Biology major, Data science minor student at IISER Mohali. Ever since I first learned how to program, I have pursued programming as a passion, and as a career. I'm a person curious about most stuff and always looking forward to new experiences and adventures in life. I love trekking, yoga, piano, dancing, football, poetry, meeting new people and talking about life and tech. And just to be clear, when I say I love to do these things, it in no way translates to 'I'm excellent at this stuff.' Would love to talk or hear any thoughts or suggestions. Feel free to connect over any medium.
+Disclaimer : This is a post where you get to know the author of this website in much detail. For a shorter version, refer to 'About' at the top of the home page. Please proceed at your own will. I will not be responsible for your ecstacy or boredom after you read this. I'm must doing my thing and trying to put my heart out. 
+If you want to continue reading, then Welcome to my World!
 
-May the force be with you! :) 
+1. 
 
-P.S. - I love Star Wars, Marvel, Harry Potter and Gangs of Wasseypur. :p
+
+2. 
+
+
+3. 
