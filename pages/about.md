@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-image: pg5.jpg
+image: pg6.jpg
 ---
 
 
