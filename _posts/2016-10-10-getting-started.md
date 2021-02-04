@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: creative_2.jpg
 ---
 
-# Creative is relative
+## Creative is relative
 
 Motivational addresses are not a thing for everyone, at least not until they sound a little extraordinary. The old 'Don't run after success, run after excellence' stuff was once a treat for the ears but now it sounds like the rest of the crap that people tell you. Basically, these quotes are indirect loop holes. Why not be just direct in what you want to convey and make it a little productive for the person who's listening as well. 
 
@@ -17,11 +17,11 @@ So, the idea I'm pitching here is that your creativity is the some total of the 
 
 So to end with how the French writer André Gide put it, "Everything that needs to be said has already been said. But, since no one was listening, everything must be said again."
 
-Reference:
+#### Reference:
 
 This post has been inspired by a book that made my day during lockdown. 
 MLA (7th ed.)
 Kleon, Austin. Steal Like an Artist: 10 Things Nobody Told You About Being Creative. , 2012. Print.
 
 
-P.S. - Through this post, I just thought to convey the happiness and confidence I felt on realising the idea that we all are creative relatively after all and essentially, I can be as creative as I want to be! And I'll try to be a little more from the next post onwards. :p
+P.S. - This post reflection of how happy and confident I felt on registering the idea that we all are creative relatively after all and essentially, I can be as creative as I want to be! And I'll try to be a little more from the next post onwards. :p
