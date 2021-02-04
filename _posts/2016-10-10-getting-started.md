@@ -4,7 +4,7 @@ title: "Creative is relative"
 author: "Prerna Goel"
 categories: blogpost
 tags: [documentation,sample]
-image: creative_2.jpg
+image: creative_3.jpg
 ---
 
 ## Creative is relative
@@ -25,3 +25,4 @@ Kleon, Austin. Steal Like an Artist: 10 Things Nobody Told You About Being Creat
 
 
 P.S. - This post reflection of how happy and confident I felt on registering the idea that we all are creative relatively after all and essentially, I can be as creative as I want to be! And I'll try to be a little more from the next post onwards. :p
+The picture above is something nice/creative I clicked while strolling during my first few days at the IISER Mohali campus.
