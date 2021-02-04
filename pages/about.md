@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: About
 image: pg4.jpg
 ---
@@ -13,5 +13,3 @@ May the force be with you! :)
 
 P.S. - I love Star Wars, Marvel, Harry Potter and Gangs of Wasseypur. :p
 
-
-                                      Made with :heart: and Github! 
