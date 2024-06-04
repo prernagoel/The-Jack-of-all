@@ -8,10 +8,9 @@ image: pg7.jpg
 ---
 
 ### Disclaimer 
-- This post provides an in-depth introduction to the author.  
+- This post provides an in-depth introduction to me  
 - For a shorter version, refer to the 'About' section at the top of the home page.  
 - Proceed at your own discretion.  
-- Welcome to my World!
 
 ### Personality Traits
 - Fun-loving and talkative  
@@ -19,8 +18,8 @@ image: pg7.jpg
 - Enthusiastic and hard-working  
 - Very open to all sorts of conversations  
 - Currently between ambivert and extrovert  
-- Grateful  
-
+- Grateful
+  
 ### INTP-T to ENFP-A
 - **INTP-T**: Introverted, Intuitive, Thinking, Prospecting, Turbulent (April 2020)  
 - **ENFP-A**: Extrovert, Intuitive, Feeling, Prospecting, Assertive (December 2023)  
