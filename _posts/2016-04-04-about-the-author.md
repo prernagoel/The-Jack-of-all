@@ -41,4 +41,4 @@ image: pg7.jpg
 - Fitness - I like being fit. I love sweets. Its the toughest task to stay fit but I try.  
 - Travel - Not wanting to visit every country in the world or even 50 countries. But would love to travel on a quarterly frequency to another state/country and just experience life.
 
-**Note** - I still try to please everyone, I still am insecure about how I look at times and how I talk or if I am smart enough like almost every second person, but I am working on those and have reached a very comfortable and optimistic stage. I truly believe in the 'Fake it till you make it' philosophy atleast in the domain of self-confidence and self-love. 
+**Note** - I firmly believe in the 'Fake it till you make it' philosophy, especially in personal growth and self-improvement opportunities because it works!
