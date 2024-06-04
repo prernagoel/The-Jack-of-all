@@ -7,16 +7,38 @@ tags: [sample]
 image: pg7.jpg
 ---
 
-### Disclaimer : 
-This is a post where you get to know the author of this website in much detail. For a shorter version, refer to 'About' at the top of the home page. Please proceed at your own will. I will not be responsible for your ecstacy or boredom after you read this. I'm just doing my thing and trying to put my heart out. 
-If you want to continue reading, then Welcome to my World!
+### Disclaimer 
+- This post provides an in-depth introduction to the author.  
+- For a shorter version, refer to the 'About' section at the top of the home page.  
+- Proceed at your own discretion.  
+- Welcome to my World!
 
-## 1. Personality traits
-Fun-loving, talkative, little funny (I repeat 'little'), enthusiastic, hard-working, moderately honest (brutally is tough), a very open person to have all sorts of conversations with, currently somewhere in between the continuum from ambivert to extrovert and last but not the least, low-maintainance. 
+## Personality Traits
+- Fun-loving and talkative  
+- Slightly funny 
+- Enthusiastic and hard-working  
+- Very open to all sorts of conversations  
+- Currently between ambivert and extrovert  
+- Grateful  
 
-## 2. The Confidence lane
-I was never the confident person I am today. I used to be shy, gawky, awkward and a constantly scared of what people are thinking about me. I think I am one of those people who took the exact energy with which I used to hate/doubt myself and turned it into confidence. Sometimes, the things that we think the people are thinking are actually the thoughts just in our head about our own self. So, I just tried to change my own self to become a better version of me. Now one can say if it were so easy, every other person would do it and become the so-called better version of them. But essentially, it's not that easy but just requires the right approach, determination and perseverance. For me, two things worked. One, to exactly go and do the thing which I am scared to do but deep inside really want to do. For instance, my introvertness. I am not inherently introvert and never wanted to be an introvert, rather I want to be just the opposite. I want to be the kind of person who talks to everybody and is very friendly. But the only problem was that I never knew how to really converse well or so I thought. I tried to look at what all my friends talk about with random or atleast not so close people. I talked to many people over chats. Essentially, I realised that there is a pattern to everything. It's just the different versions of those same old topics plus a little confidence and self-touch mixed up that results into good and at times productive conversations. A golden thing I learnt was that being honest and funny is the key coz if one doesn't work, you can always lean on the other. Also, no matter how nice or sweet or introvert or extrovert you are, someone will always call you a bitch. So, why not be a sassy and confident one!
+## INTP-T to ENFP-A
+- **INTP-T**: Introverted, Intuitive, Thinking, Prospecting, Turbulent (April 2020)  
+- **ENFP-A**: Extrovert, Intuitive, Feeling, Prospecting, Assertive (December 2023)  
 
-Note - I still try to please everyone, I still have my own doubts, I still am insecure about how I look and how I talk, but I am working on those. I truly believe in the 'Fake it till you make it' philosophy atleast in the domain of self-confidence and self-love. 
+- A noteworthy personality change over ~2.5 years; from being shy, awkward, and self-doubting to confident and assertive.  
 
-## 3. 
+## Keys to the Updated Version
+- **Learnt to be extrovert:** I am not inherently introvert and wanted to be the kind of person who talks to everybody, is very friendly. The problem was I never really knew how to converse well or so I thought. I looked at what my social friends talk about with random or not so close people. I realised that it's just the same old topics plus a little self-touch, confidence & honesty mixed up that leads to engaging & productive conversations. It required work in the beginning but became seamless with time. 
+- **Professional Validation:** My work life at ZS also gave me a confidence booster. I was good at my work and was hired in the first ever interview I gave. I thought to myself, if stakeholders from a billion dollar firm think you're worth it, then you better believe you're worth it! 
+- **Honesty and sarcasm:** Another golden thing I learnt was that being honest and funny is the key coz if one doesn't work, you can always lean on the other. Also, no matter how nice or sweet or introvert or extrovert you are, someone will always call you a bitch. So, why not be a sassy and confident one!  
+
+## Hobbies/Interests
+- Singing - I'm learning and I love it. Created an IG page with my boyfriend. Feel free to give a visit - add link 
+- Reading - Read few fiction and non-fiction books. Alamanacks of Naval Ravikant & Atomic Habits are some of the favs.
+- Writing - Thinking about writing blogs and a book since forever. Hopefully I do it soon
+- Data Science - I'm a data scientist by profession. I like the job for most part of it. Feel free to explore my linkedIn or Github page. 
+- Talking - I like talking to people. So much that I thought, how could one earn by talking so that I can do what I love. Logic. Answer was Podcast. Hopefully soon. 
+- Fitness - I like being fit. I love sweets. Its the toughest task to stay fit but I try.  
+- Travel - Not wanting to visit every country in the world or even 50 countries. But would love to travel on a quarterly frequency to another state/country and just experience life.
+
+**Note** - I still try to please everyone, I still am insecure about how I look at times and how I talk or if I am smart enough like almost every second person, but I am working on those and have reached a very comfortable and optimistic stage. I truly believe in the 'Fake it till you make it' philosophy atleast in the domain of self-confidence and self-love. 
