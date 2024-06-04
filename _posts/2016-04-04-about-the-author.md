@@ -13,7 +13,7 @@ image: pg7.jpg
 - Proceed at your own discretion.  
 - Welcome to my World!
 
-## Personality Traits
+### Personality Traits
 - Fun-loving and talkative  
 - Slightly funny 
 - Enthusiastic and hard-working  
@@ -21,18 +21,18 @@ image: pg7.jpg
 - Currently between ambivert and extrovert  
 - Grateful  
 
-## INTP-T to ENFP-A
+### INTP-T to ENFP-A
 - **INTP-T**: Introverted, Intuitive, Thinking, Prospecting, Turbulent (April 2020)  
 - **ENFP-A**: Extrovert, Intuitive, Feeling, Prospecting, Assertive (December 2023)  
 
 - A noteworthy personality change over ~2.5 years; from being shy, awkward, and self-doubting to confident and assertive.  
 
-## Keys to the Updated Version
-- **Learnt to be extrovert:** I am not inherently introvert and wanted to be the kind of person who talks to everybody, is very friendly. The problem was I never really knew how to converse well or so I thought. I looked at what my social friends talk about with random or not so close people. I realised that it's just the same old topics plus a little self-touch, confidence & honesty mixed up that leads to engaging & productive conversations. It required work in the beginning but became seamless with time. 
+### Keys to the Updated Version
+- **Learnt to be extrovert:** I am not inherently introvert and wanted to be a friendly person. I never really knew how to converse well or so I thought. I looked at what my social friends talk about with most people. I realised that it's just the same old topics plus a little self-touch mixed up that leads to engaging & productive conversations. It required work in the start but became seamless with time. 
 - **Professional Validation:** My work life at ZS also gave me a confidence booster. I was good at my work and was hired in the first ever interview I gave. I thought to myself, if stakeholders from a billion dollar firm think you're worth it, then you better believe you're worth it! 
 - **Honesty and sarcasm:** Another golden thing I learnt was that being honest and funny is the key coz if one doesn't work, you can always lean on the other. Also, no matter how nice or sweet or introvert or extrovert you are, someone will always call you a bitch. So, why not be a sassy and confident one!  
 
-## Hobbies/Interests
+### Hobbies/Interests
 - Singing - I'm learning and I love it. Created an IG page with my boyfriend. Feel free to give a visit - add link 
 - Reading - Read few fiction and non-fiction books. Alamanacks of Naval Ravikant & Atomic Habits are some of the favs.
 - Writing - Thinking about writing blogs and a book since forever. Hopefully I do it soon
