@@ -4,12 +4,11 @@ title: About
 image: pg3.jpg
 ---
 
+Hi there! Welcome to my blog. I’m a Data Science Associate Consultant, and for the past three years, I’ve been on an incredible journey working on some amazing projects at ZS Associates, Gurgaon. From machine learning to generative AI, I’ve had the chance to dive into some really cool algorithms. I have a Masters of Science from IISER Mohali with Specialization in Data Science and Biology. 
 
-Hi there! I'm Prerna. I’m a Biology major, Data science minor student at IISER Mohali. Ever since I first learned how to program, I have pursued programming as a passion, and as a career. I'm a person curious about most stuff and always looking forward to new experiences and adventures in life. I love trekking, yoga, piano, dancing, football, poetry, meeting new people and talking about life and tech. And just to be clear, when I say I love to do these things, it in no way translates to 'I'm good at this stuff.' 
-I'm creating this website to share my thoughts/stories/learnings through blog posts and connect with more people. 
+During my time at ZS, I’ve worked on a bunch of different projects across pharmaceutical clients and therapy areas. I've gotten a chance to work on short term and long term service based projects for clients and also developed some really cool products along the way. Each one has taught me something new and fueled my love for using data to solve problems and spark innovation.
+
+I’m a big believer in sharing what I’ve learned, which is why I started this blog. Here, I'll share stories from my professional and personal experiences and the lessons I’ve picked up along the way and hope to connect with more people. Whether you’re into data science or just curious about what it’s all about, I hope you’ll find something interesting and useful in my posts.
+
+Thanks for stopping by, and I hope you’ll join me as I continue to explore the exciting world of data science and AI!
 Would love to talk or hear any thoughts or suggestions. Feel free to connect over any medium.
-
-May the force be with you! :)
-
-P.S. - I love Star Wars, Marvel, Harry Potter and Gangs of Wasseypur. :p
-
