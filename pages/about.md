@@ -10,5 +10,4 @@ During my time at ZS, I’ve worked on a bunch of different projects across phar
 
 I’m a big believer in sharing what I’ve learned, which is why I started this blog. Here, I'll share stories from my professional and personal experiences and the lessons I’ve picked up along the way and hope to connect with more people. Whether you’re into data science or just curious about what it’s all about, I hope you’ll find something interesting and useful in my posts.
 
-Thanks for stopping by, and I hope you’ll join me as I continue to explore the exciting world of data science and AI!
-Would love to talk or hear any thoughts or suggestions. Feel free to connect over any medium.
+Thanks for stopping by! Would love to talk or hear any thoughts or suggestions. Feel free to connect over any medium.
